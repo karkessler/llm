@@ -18,6 +18,3 @@ Die Kapitel:
 9. Grenzen klassischer LLMs
 10. Fazit & Diskussion
 11. Glossar
-
-Die Details sind bewusst knapp gehalten, weil die eigentliche Lehre über
-die Folien + Demos erfolgt.

@@ -14,41 +14,31 @@ Wir definieren:
 import numpy as np
 
 def softmax(x: np.ndarray) -> np.ndarray:
-    """
-    Softmax-Funktion entlang der letzten Achse.
-    """
     e = np.exp(x - np.max(x, axis=-1, keepdims=True))
     return e / e.sum(axis=-1, keepdims=True)
 
 def main():
     tokens = ["Paris", "ist", "die", "Hauptstadt", "von"]
     n_tokens = len(tokens)
-    d_model = 4  # kleine Vektordimension
+    d_model = 4
 
-    # Beispiel-Embeddings (x_i) für jedes Token (reproduzierbar mit Seed)
     np.random.seed(42)
     X = np.random.rand(n_tokens, d_model)
 
-    # Gewichtsmatrizen W_Q, W_K, W_V als Einheitsmatrizen
     W_Q = np.eye(d_model)
     W_K = np.eye(d_model)
     W_V = np.eye(d_model)
 
-    # Berechnung von Q, K, V
-    Q = X @ W_Q.T  # (5,4)
-    K = X @ W_K.T  # (5,4)
-    V = X @ W_V.T  # (5,4)
+    Q = X @ W_Q.T
+    K = X @ W_K.T
+    V = X @ W_V.T
 
-    # Fokus auf Token „von“
     idx_von = tokens.index("von")
-    q_von = Q[idx_von:idx_von+1, :]  # Form (1,4)
+    q_von = Q[idx_von:idx_von+1, :]
 
-    # Attention-Scores: Skalarprodukte q_von • k_j
-    scores = q_von @ K.T  # (1,5)
-    weights = softmax(scores)  # (1,5)
-
-    # Neuer kontextualisierter Vektor für „von“
-    context_von = weights @ V  # (1,4)
+    scores = q_von @ K.T
+    weights = softmax(scores)
+    context_von = weights @ V
 
     print("Tokens:", tokens)
     print("\nEmbeddings X:")

@@ -21,9 +21,9 @@ def main():
     tokens = simple_whitespace_tokenize(text)
     print("Einfache Tokens:", tokens)
 
-    # Manuelle Subword-Tokens im Stil der Folien (Beispiel, nicht exakt wie im echten Tokenizer)
+    # Manuelle Subword-Tokens (Beispiel)
     subword_tokens = ["Paris", "Ġis", "t", "Ġdie", "ĠHau", "pt", "stadt", "Ġvon", "ĠFrank", "reich"]
-    print("\nBeispiel für Subword-Tokens (angelehnt an BPE/Konzept aus der Vorlesung):")
+    print("\nBeispiel für Subword-Tokens (angelehnt an BPE-Konzepte):")
     print(subword_tokens)
     print("\nHinweis: In echten Modellen wird die Zerlegung automatisch gelernt (BPE/SentencePiece).")
 

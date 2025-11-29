@@ -2,10 +2,8 @@
 """
 Softmax-Beispiel:
 
-Gegeben sei ein Kontextvektor
-    h = [0.304, 0.529, 0.603, 0.399]
-
-und ein kleines Vokabular V = {Frankreich, Deutschland, Spanien} mit Zeilen von W_out.
+Kontextvektor h = [0.304, 0.529, 0.603, 0.399]
+Vokabular: {Frankreich, Deutschland, Spanien}
 
 Wir berechnen z = W_out * h und anschließend Softmax(z).
 """
@@ -26,8 +24,6 @@ def main():
     ])
 
     vocab = ["Frankreich", "Deutschland", "Spanien"]
-
-    # Logits z = W_out * h
     z = W_out @ h
 
     print("Kontextvektor h:", h)
@@ -35,13 +31,11 @@ def main():
     for token, z_i in zip(vocab, z):
         print(f"  {token:11s}: {z_i:.3f}")
 
-    # Softmax-Wahrscheinlichkeiten
     p = softmax(z)
 
     print("\nSoftmax-Wahrscheinlichkeiten p:")
     for token, p_i in zip(vocab, p):
         print(f"  P({token:11s}) = {p_i:.3f}")
-
     print("\nSumme der Wahrscheinlichkeiten:", p.sum())
 
 if __name__ == "__main__":

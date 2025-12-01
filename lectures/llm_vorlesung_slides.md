@@ -1,4 +1,4 @@
-# LLM-Vorlesung – Folienskript mit Bildern und Demos
+# LLM – Folienskript mit Bildern und Demos
 
 Dieses Dokument zeigt **alle Folien der Präsentation** als eingebettete PNG-Bilder.
 Unter jeder Folie steht eine kurze inhaltliche Einordnung und – falls vorhanden –
@@ -15,7 +15,7 @@ Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -28,7 +28,7 @@ Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -41,7 +41,7 @@ Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -59,7 +59,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -77,7 +77,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -95,7 +95,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -113,7 +113,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -131,7 +131,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -149,7 +149,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -167,7 +167,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -185,8 +185,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 13
@@ -203,7 +202,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -221,8 +220,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 15
@@ -239,8 +237,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 16
@@ -257,8 +254,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 17
@@ -275,7 +271,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -293,7 +289,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -311,8 +307,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 20
@@ -329,7 +324,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -348,9 +343,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+EErgänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 22
@@ -369,8 +363,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 23
@@ -389,7 +382,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -409,8 +402,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 25
@@ -429,7 +421,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -449,8 +441,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 27
@@ -469,8 +460,7 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 28
@@ -487,7 +477,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -505,7 +495,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -523,7 +513,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -541,8 +531,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 32
@@ -559,8 +548,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 33
@@ -572,8 +560,7 @@ Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 34
@@ -585,7 +572,7 @@ Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -598,7 +585,7 @@ Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -611,8 +598,7 @@ Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 38
@@ -624,8 +610,7 @@ Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 39
@@ -637,7 +622,7 @@ Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -650,7 +635,7 @@ Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
+die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -663,8 +648,7 @@ Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 42
@@ -676,6 +660,5 @@ Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie in der Vorlesung stellen möchtest.
-
+die du zu dieser Folie stellen möchtest.
 ---

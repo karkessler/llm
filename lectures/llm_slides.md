@@ -13,10 +13,6 @@ Links zu passenden Python-Demos im Ordner `demos/`.
 **Kurze Einordnung:**  
 Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 3
@@ -26,10 +22,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 4
@@ -38,10 +30,6 @@ die du zu dieser Folie stellen möchtest.
 
 **Kurze Einordnung:**  
 Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -57,10 +45,6 @@ die du zu dieser Folie stellen möchtest.
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 6
@@ -74,10 +58,6 @@ die du zu dieser Folie stellen möchtest.
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -93,10 +73,6 @@ die du zu dieser Folie stellen möchtest.
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 8
@@ -110,10 +86,6 @@ die du zu dieser Folie stellen möchtest.
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -129,10 +101,6 @@ die du zu dieser Folie stellen möchtest.
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 10
@@ -146,10 +114,6 @@ die du zu dieser Folie stellen möchtest.
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -165,10 +129,6 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
 - 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/gradient_descent_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 12
@@ -183,9 +143,6 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
 - 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/gradient_descent_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 13
@@ -199,10 +156,6 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
 - 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/gradient_descent_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -218,9 +171,6 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
 - 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/gradient_descent_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 15
@@ -235,9 +185,6 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
 - 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/gradient_descent_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 16
@@ -252,9 +199,6 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 17
@@ -268,10 +212,6 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -287,10 +227,6 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 19
@@ -305,9 +241,6 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 20
@@ -321,10 +254,6 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -342,9 +271,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
-**Hinweis für die Lehre:**  
-EErgänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 22
@@ -361,9 +287,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 23
@@ -379,10 +302,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -400,9 +319,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 25
@@ -418,10 +334,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -439,9 +351,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 27
@@ -458,9 +367,6 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 - 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/softmax_demo.py)
 - 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/crossentropy_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 28
@@ -474,10 +380,6 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -493,10 +395,6 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 30
@@ -510,10 +408,6 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -529,9 +423,6 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 32
@@ -546,9 +437,6 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
 - 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/self_attention_demo.py)
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 33
@@ -558,9 +446,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory).
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 34
@@ -569,10 +454,6 @@ die du zu dieser Folie stellen möchtest.
 
 **Kurze Einordnung:**  
 Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory).
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -583,10 +464,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory).
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 37
@@ -596,9 +473,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory).
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 38
@@ -608,9 +482,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Titans-Architektur und Memory-Konzepte (Short-Term, Long-Term, Persistent Memory).
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 39
@@ -619,10 +490,6 @@ die du zu dieser Folie stellen möchtest.
 
 **Kurze Einordnung:**  
 Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
-
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 
 ---
 
@@ -633,10 +500,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
-
 ---
 
 ## Folie 41
@@ -646,9 +509,6 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
-die du zu dieser Folie stellen möchtest.
 ---
 
 ## Folie 42
@@ -658,7 +518,5 @@ die du zu dieser Folie stellen möchtest.
 **Kurze Einordnung:**  
 Grenzen von LLMs, Fazit, Ausblick und Glossar wichtiger Begriffe.
 
-**Hinweis für die Lehre:**  
-Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
 die du zu dieser Folie stellen möchtest.
 ---

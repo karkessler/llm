@@ -5,6 +5,7 @@ Unter jeder Folie steht eine kurze inhaltliche Einordnung und – falls vorhande
 Links zu passenden Python-Demos im Ordner `demos/`.
 
 ---
+
 ## Folie 1
 
 ![Folie 1](../assets/slides/Folie1.PNG)
@@ -67,7 +68,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -85,7 +86,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -103,7 +104,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -121,7 +122,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -139,7 +140,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -157,7 +158,7 @@ die du zu dieser Folie in der Vorlesung stellen möchtest.
 **Passende Demo-Programme:**
 
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
-- 🚀 [`tokenization_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
+- 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/tokenization_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -175,7 +176,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 **Passende Demo-Programme:**
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
-- 🚀 [`gradient_descent_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
+- 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -193,7 +194,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 **Passende Demo-Programme:**
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
-- 🚀 [`gradient_descent_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
+- 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -211,7 +212,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 **Passende Demo-Programme:**
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
-- 🚀 [`gradient_descent_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
+- 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -229,7 +230,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 **Passende Demo-Programme:**
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
-- 🚀 [`gradient_descent_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
+- 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -247,7 +248,7 @@ Mathematische Grundlagen: Vektoren, Matrizen, Gradienten und Loss-Landschaft.
 **Passende Demo-Programme:**
 
 - 👉 [`gradient_descent_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/gradient_descent_demo.py)
-- 🚀 [`gradient_descent_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
+- 🚀 [`gradient_descent_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/gradient_descent_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -265,7 +266,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -283,7 +284,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -301,7 +302,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -319,7 +320,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -337,7 +338,7 @@ Konkretes Rechenbeispiel zur Self-Attention und zum Kontextvektor (Token „von�
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -356,8 +357,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -376,8 +377,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -396,8 +397,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -416,8 +417,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -436,8 +437,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -456,8 +457,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -476,8 +477,8 @@ Lernprozess: Softmax, Cross-Entropy, Backpropagation und Gradientenabstieg.
 
 - 👉 [`softmax_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/softmax_demo.py)
 - 👉 [`crossentropy_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/crossentropy_demo.py)
-- 🚀 [`softmax_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
-- 🚀 [`crossentropy_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
+- 🚀 [`softmax_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/softmax_demo.py)
+- 🚀 [`crossentropy_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/crossentropy_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -495,7 +496,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -513,7 +514,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -531,7 +532,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -549,7 +550,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,
@@ -567,7 +568,7 @@ Vergleich von Modellarchitekturen (GPT/BERT) und Erweiterungen (Feedforward, Res
 **Passende Demo-Programme:**
 
 - 👉 [`self_attention_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/self_attention_demo.py)
-- 🚀 [`self_attention_demo.py` in Binder ausführen](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
+- 🚀 [`self_attention_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?filepath=demos/self_attention_demo.py)
 
 **Hinweis für die Lehre:**  
 Ergänze bei Bedarf noch stichpunktartig Beispiele, Fragen oder Aufgaben,

@@ -42,6 +42,13 @@ Motivation und Einordnung von Machine Learning, Deep Learning und GPT.
 
 **Passende Demo-Programme:**
 
+**Passende Demo-Programme:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karkessler/llm/blob/main/Gradientenberechnung.ipynb)
+
+- 👉 [Gradientenberechnung.ipynb (GitHub)](https://github.com/karkessler/llm/blob/main/Gradientenberechnung.ipynb)
+- 🚀 [Gradientenberechnung.ipynb in Google Colab öffnen](https://colab.research.google.com/github/karkessler/llm/blob/main/Gradientenberechnung.ipynb)
+
 - 👉 [`tokenization_demo.py` (GitHub)](https://github.com/karkessler/llm/blob/main/demos/tokenization_demo.py)
 - 🚀 [`tokenization_demo.py` in Binder öffnen (manuell ausführen)](https://mybinder.org/v2/gh/karkessler/llm/HEAD?urlpath=lab/tree/demos/tokenization_demo.py)
 
